@@ -3,7 +3,6 @@
 - 👨‍💻 Hoje eu trabalho com desenvolvimento full-stack
 - 🌱 Me aprimorando em Typescript
 - 📲 Atualmente, meu maior interesse é desenvolvimento full stack mobile
-- 😉 Pronomes: ele/dele
 
 
 <div style="display: inline_block"><br>
