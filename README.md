@@ -1,5 +1,22 @@
-# 💫 About Me:
-👋 Hi! I’m a backend JavaScript developer, mainly focused on NestJS. My primary interest is backend development, but I’m also comfortable working with web and mobile frontend using React and React Native, even though frontend is not my main specialization.<br><br>🎯 My goal is to become a backend specialist while keeping enough versatility to work effectively with frontend when needed. I value understanding systems end to end, from API design to client consumption.<br><br>📚 I’m currently expanding my backend skill set with Java (Spring Boot), C#, and Go, as well as Kotlin and Swift, aiming to build a solid and modern backend-focused career path.<br><br>⚡ Fun fact: I’m finishing a Master’s degree in Innovation at the Federal University of Rio Grande do Norte (UFRN).
+<div align="center">
+
+# Davidson Oliveira
+*Backend JavaScript Developer*
+
+---
+
+**Hi! I'm a backend JavaScript developer, mainly focused on NestJS.**  
+My primary interest is backend development, but I'm also comfortable working with web and mobile frontend using React and React Native, even though frontend is not my main specialization.
+
+**My goal is to become a backend specialist** while keeping enough versatility to work effectively with frontend when needed. I value understanding systems end to end, from API design to client consumption.
+
+**Currently expanding my backend skill set** with Java (Spring Boot), C#, and Go, as well as Kotlin and Swift, aiming to build a solid and modern backend-focused career path.
+
+**Fun fact:** I'm finishing a Master's degree in Innovation at the Federal University of Rio Grande do Norte (UFRN).
+
+---
+
+</div>
 
 
 ## 🌐 Socials:
