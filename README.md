@@ -16,9 +16,6 @@ My primary interest is backend development, but I'm also comfortable working wit
 
 ---
 
-</div>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_davoliver) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidson-n-oliveira/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davidson@becarbon.com.br) 
 
@@ -34,6 +31,8 @@ My primary interest is backend development, but I'm also comfortable working wit
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-252529.svg?style=for-the-badge&logo=vitest&logoColor=FCC72B)
+
+</div>
 
 <!-- # 📊 GitHub Stats:
 !https://github-readme-stats.vercel.app/api?username=daveazzy&theme=dark&hide_border=false&include_all_commits=false&count_private=true<br/>
